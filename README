@@ -1,0 +1,9 @@
+Now we have:
+auto-pairs:   括号等自动对齐
+nerdtree:     文件浏览器，树形目录
+taglist:      代码结构浏览
+vim-go：      go语言插件
+neocomplete： 代码实时补全
+pydiction：   python插件代码提示插件
+vim-colors*:  配色
+vim-markdown：markdown插件
